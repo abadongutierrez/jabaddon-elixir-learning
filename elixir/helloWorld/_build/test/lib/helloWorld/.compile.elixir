@@ -1,0 +1,6 @@
+v2.
+{<<"_build/test/lib/helloWorld/ebin/Elixir.HelloWorld.beam">>,
+ 'Elixir.HelloWorld',module,<<"lib/helloWorld.ex">>,
+ ['Elixir.Kernel'],
+ [erlang],
+ [],nil}.
